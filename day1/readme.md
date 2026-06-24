@@ -1,40 +1,33 @@
-
-Cloud Computing Training - Day 2
+Cloud Computing Training - Day 1
 
 Topics Covered
 
-Linux Commands
+AWS Console
 
-- Working with files and directories
-- Navigating the Linux file system
-- Basic system administration commands
+- Introduction to AWS
+- Exploring the AWS Management Console
+- Understanding AWS Services
 
-AWS CloudShell
+IAM (Identity and Access Management)
 
-- Introduction to CloudShell
-- Running Linux commands in AWS CloudShell
+- Introduction to IAM
+- IAM User Creation
+- Managing User Permissions
+- Security Best Practices
 
-Amazon EC2 Basics
+AWS Dashboard
 
-- Introduction to EC2
-- Understanding virtual servers in AWS
-- Accessing and managing EC2 instances
-
-Commands Practiced
-
-pwd
-ls
-touch
-cd ../..
-sudo su
-htop
+- Navigating the AWS Dashboard
+- Understanding the AWS Home Page
+- Accessing AWS Services
 
 Learning Outcome
 
-- Learned basic Linux command-line operations.
-- Gained hands-on experience with AWS CloudShell.
-- Understood the fundamentals of Amazon EC2.
-- Practiced file management and system monitoring commands.
+- Understood the basics of Amazon Web Services (AWS).
+- Learned how to navigate the AWS Management Console.
+- Created and managed IAM users.
+- Explored the AWS Dashboard and available services.
+- Gained awareness of AWS security and access management.
 
 Screenshots
 
