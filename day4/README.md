@@ -1,15 +1,25 @@
-Day 3 - AWS EC2 & Docker
+Cloud Computing Training - Day 4
 
-Tasks Completed
+Topics Covered
 
-- Launched an AWS EC2 instance.
-- Created and configured a Security Group.
-- Modified inbound rules for SSH, HTTP, and HTTPS.
-- Connected to the EC2 instance using SSH.
-- Created a Dockerfile.
-- Built a Docker image using Docker.
-- Verified Docker images.
-- Hosted and accessed a webpage using the EC2 public IP.
+Docker Fundamentals
+
+- Introduction to Docker
+- Docker Images
+- Docker Containers
+- Dockerfile
+
+Docker Commands
+
+- Viewing Docker Images
+- Building Docker Images
+- Understanding Docker Image Creation Process
+
+Website Deployment
+
+- Creating a Dockerfile
+- Building a Docker Image
+- Hosting a Simple Website using Docker
 
 Commands Practiced
 
@@ -20,8 +30,13 @@ docker images
 
 Learning Outcome
 
-Gained hands-on experience with AWS EC2, Security Groups, Dockerfile creation, Docker image building, and website hosting.
+- Understood the basics of Docker.
+- Learned the difference between Docker Images and Containers.
+- Created a Dockerfile.
+- Built a Docker image using Docker.
+- Gained hands-on experience with website deployment using Docker.
 
-Author
+Screenshots
 
-Vidhya S
+Screenshots of the practical activities are available in the screenshots folder.
+
